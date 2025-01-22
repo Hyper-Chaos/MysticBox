@@ -1,4 +1,5 @@
 {
-  "latestVersion": "Dev0.0.20250121",
-  "apkUrl": "https://github.com/Hyper-Chaos/MysticBox.git"
+  "latestVersionCode": 1,
+  "updateMessage": "测试"
+  "updateUrl": "https://github.com/Hyper-Chaos/MysticBox.git"
 }
