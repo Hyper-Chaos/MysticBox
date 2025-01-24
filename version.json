@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 1,
-  "latestVersionName": "Dev0.0.20250124.2",
+  "latestVersionName": "Dev0.0.20250124.3",
   "updateMessage": "更新内容：\n★修正启动背景显示错误\n★优化整体布局显示效果\n★加入页面滑动组件动画\n★适配系统导航栏、状态栏沉浸\n★优化版本判断逻辑\n★引入云端分析技术\n★搭建预加载引擎，访问更轻快\n★修复一系列已知问题",
   "updateUrl": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737712317358/app-debug.apk"
 }
