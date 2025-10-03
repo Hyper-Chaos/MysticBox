@@ -12,5 +12,12 @@
     "password": "zh",
     "phone": "13333333333",
     "username": "user"
+  },
+  {
+    "account": "user",
+    "email": "323@qq.com",
+    "password": "mm",
+    "phone": "18370753654",
+    "username": "用户"
   }
 ]
