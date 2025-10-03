@@ -1,1 +1,9 @@
-
+[
+  {
+    "account": "cs",
+    "email": "cs@qq.com",
+    "password": "cs",
+    "phone": "13333333333",
+    "username": "用户1"
+  }
+]
