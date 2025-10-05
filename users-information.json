@@ -12,5 +12,12 @@
     "password": "mm",
     "phone": "13333333333",
     "username": "测试"
+  },
+  {
+    "account": "cxy",
+    "email": "wksk@qq.com",
+    "password": "cxy",
+    "phone": "13764946671",
+    "username": "程序员"
   }
 ]
