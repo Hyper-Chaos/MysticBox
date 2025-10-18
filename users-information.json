@@ -8,5 +8,15 @@
     "phone": "18370753654",
     "signature": "",
     "username": "绝笔染青衫"
+  },
+  {
+    "account": "zh",
+    "birthday": "1970-01-01",
+    "email": "cs@cs.cn",
+    "image": "http://110.41.151.98:5000/images/7be109a2-e98d-43b8-824b-c4dcde913d57.jpg",
+    "password": "mm",
+    "phone": "13333333333",
+    "signature": "测试内容",
+    "username": "测试"
   }
 ]
