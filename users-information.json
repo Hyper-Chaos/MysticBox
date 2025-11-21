@@ -28,5 +28,15 @@
     "phone": "15779001019",
     "signature": "我想和你拥有一个梦，哪怕这一路有太多的痛，我也要和你一起去追寻。",
     "username": "つ举世上男°"
+  },
+  {
+    "account": "zh",
+    "birthday": "1970-01-01",
+    "email": "cs@cs.com",
+    "image": "http://110.41.151.98:5000/images/c7757ba9-cc0a-482b-8335-1d406603829f.jpg",
+    "password": "mm",
+    "phone": "13333333333",
+    "signature": "",
+    "username": "虚拟机"
   }
 ]
